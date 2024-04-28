@@ -34,7 +34,7 @@ The application utilizes two types of databases:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/hotel-management.git
+git clone https://github.com/samyakjn19/Hotel-Management-Application.git
 
 
 
